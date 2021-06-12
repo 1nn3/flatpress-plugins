@@ -1,0 +1,8 @@
+FlatPress plugins
+
+My plugins for the FlatPress Blog-Engine. Some are just forked.
+
+	cp -r my* /var/www/html/flatpress/fp-plugins/
+
+The robots-user-agents.txt is from https://www.projectcounter.org/
+
